@@ -1,2 +1,2 @@
 # Parked
-The page displayed on a parked site.
+A simple web page to display on parked domains.
